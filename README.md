@@ -13,9 +13,15 @@ This project was built as a hands-on exercise in applying object-oriented progra
 ## project structure
 book-library-manager/
 │
-├── MyLibrary.py      # Core class and functions (add, search, remove, save, load)
-├── menu.py            # Entry point — imports from MyLibrary.py and runs the menu
-├── Mylibrary.json     # Auto-generated data file (created on first run)
+├── MyLibrary.py 
+
+Core class and functions (add, search, remove, save, load)
+├── menu.py             
+
+Entry point — imports from MyLibrary.py and runs the menu
+├── Mylibrary.json     
+
+Auto-generated data file (created on first run)
 └── README.md
 
 ## How it works
