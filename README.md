@@ -11,18 +11,7 @@ This project was built as a hands-on exercise in applying object-oriented progra
 * Menu-driven interface — a continuous loop lets users perform multiple actions without restarting the program
 
 ## project structure
-book-library-manager/
-│
-├── MyLibrary.py 
 
-Core class and functions (add, search, remove, save, load)
-├── menu.py             
-
-Entry point — imports from MyLibrary.py and runs the menu
-├── Mylibrary.json     
-
-Auto-generated data file (created on first run)
-└── README.md
 
 ## How it works
 * The booktintro class defines a book object with five attributes and a method to convert it into a dictionary.
